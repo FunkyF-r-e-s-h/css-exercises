@@ -1,19 +1,20 @@
-
-.odd {
-    background-color: lightpink;
-    font-family: 'Times New Roman', "Dejavu Sans", sans-serif;
+p {
+    background-color: pink;
+    font-family: Verdana,"DejaVu Sans", sans-serif;
 }
+
 
 #two {
     color: blue;
     font-size: 36px;
 }
 
-.adjust-font-size {
+.three {
     font-size: 24px;
 }
 
 #four {
-    background-color:lightgreen;
+    background-color: rgb(119, 185, 20);
+    font-size: 24px;
     font-weight: bold;
 }
